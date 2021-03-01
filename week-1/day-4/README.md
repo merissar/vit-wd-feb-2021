@@ -64,7 +64,7 @@ You are going to recreate the image by using everything we learned this week.
 
 This does not need to be pixel perfect! We are leaving it up to your creativity.
 
-We are looking the use of :
+We are looking for the use of :
 
 - the formatting of context/text using CSS
 - the page layout

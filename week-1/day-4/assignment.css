@@ -1,0 +1,47 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+h1
+{text-decoration: underline overline #FF3028 5px;
+    text-align:center
+  }
+  h3
+  {text-decoration: underline red 3px;
+    text-align:center;
+  } 
+    
+  .column {
+    float: left;
+    width: 33%;
+    column-rule-color: red;
+    column-rule-style: solid;
+    column-rule-width: 3px;  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column {
+    float: left;
+    width: 66%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .column {
+    float: right;
+    width: 33%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
